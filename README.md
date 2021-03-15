@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @velezJessica
 - 👀 I’m interested in artificial intelligence,cybersecurity,cooking,mathematics and inclusivity/advocacy!
 - 🌱 I’m currently learning computer science with a minor in math and cybersecurity at the university of Nevada, Reno
-- 💞️ I’m looking to collaborate on an app that could more accurately create closed captioning for videos and app as an extension for the deaf community
+- 💞️ I’m looking to collaborate on an app that could more accurately create closed captioning for videos/ apps as an extension so we're more inclusive to the deaf community
 - 📫 How to reach me: Jessicavelez@nevada.unr.edu
 
 <!---
